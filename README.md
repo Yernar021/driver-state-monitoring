@@ -1,6 +1,6 @@
 # Lightweight Driver State Monitoring Under Subject-Independent Evaluation and Static-Photo Presentation Attacks
 
-Code for the paper by Bolysbek Yernar and Yelaman Yergakiev (Astana IT University).
+Code for the paper by Bolysbek Yernar and Yelaman Yergaliev (Astana IT University).
 
 A CPU-only driver monitor (drowsiness and distraction) evaluated with leave-one-person-out (LOPO) cross-validation on the public Driver Monitoring Dataset (DMD), plus an exploratory study of static-photo presentation attacks and a training-free blink rule.
 
